@@ -1,0 +1,20 @@
+{
+    "name": "mrwilde/wordpress-plugin-template",
+    "description": "WordPress plugin generator frohlashbrooke on github",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "homepage": "https://github.com/hlashbrooke/WordPress-Plugin-Template",
+    "authors": [
+        {
+            "name": "Mr Wilde",
+            "email": "robert@mrwilde.com",
+	    "homepage": "https://mrwilde.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "keywords": ["wordpress","plugin"],
+    "require": {
+    	"php": "^5.6 || ^7.1",
+	"composer/installers": "~1.0"
+    }
+}
