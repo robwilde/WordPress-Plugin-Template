@@ -1,5 +1,5 @@
 {
-    "name": "mrwilde/wordpress-plugin-template",
+    "name": "robwilde/wordpress-plugin-template",
     "description": "WordPress plugin generator frohlashbrooke on github",
     "type": "wordpress-plugin",
     "license": "MIT",
