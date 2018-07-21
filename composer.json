@@ -2,7 +2,7 @@
     "name": "robwilde/wordpress-plugin-template",
     "description": "WordPress plugin generator frohlashbrooke on github",
     "type": "wordpress-plugin",
-    "license": "MIT",
+    "license": "GPL-2.0",
     "homepage": "https://github.com/hlashbrooke/WordPress-Plugin-Template",
     "authors": [
         {
