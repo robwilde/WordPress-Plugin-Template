@@ -11,7 +11,7 @@
 	    "homepage": "https://mrwilde.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "keywords": ["wordpress","plugin"],
     "require": {
     	"php": "^5.6 || ^7.1",
